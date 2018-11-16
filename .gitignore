@@ -36,6 +36,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+#Editor config files
+.idea/
+.vscode/
+
 # TypeScript v1 declaration files
 typings/
 
